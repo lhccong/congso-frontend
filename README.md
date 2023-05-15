@@ -1,24 +1,24 @@
-# congso-frontend
+# CSO聚合平台
 
-## Project setup
+## 依赖安装
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 项目构建
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### 格式化文件
 ```
 yarn lint
 ```
 
-### Customize configuration
+### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
